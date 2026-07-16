@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Masha!
 
-<!--
-**masha-ricciardi/masha-ricciardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Finance/Statistics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Python</b>
+  - [Multi-Period Binomal Model (pricing a 3 period American option with dividend)](https://github.com/masha-ricciardi/Multi-Period-Binomial-Model)
+<h2> AI/ML Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+[<img align="left" alt="MashaRicciardi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/masharicciardi
