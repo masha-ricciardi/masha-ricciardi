@@ -5,6 +5,7 @@
 - <b>Python</b>
   - [Multi-Period Binomal Model (pricing a 3 period American option with dividend)](https://github.com/masha-ricciardi/Multi-Period-Binomial-Model)
 <h2> University Projects:</h2>
+
 - <b>Lean 4</b>
   - [Contraction Mappings Project (a formalisation of the 2-adic metric on ℕ, used to explore contraction maps, fixed points, and completeness)](https://github.com/masha-ricciardi/Contraction-Mapping-Project)
 
