@@ -1,5 +1,7 @@
 <h1>Hi, I'm Masha!
 
+3rd year BSc Mathematics student at UCL with interests in finance, statistics, and AI. Currently building a Bayesian neural network for MNIST digit classification in TensorFlow.
+
 <h2> Finance/Statistics Projects:</h2>
 
 - <b>Python</b>
