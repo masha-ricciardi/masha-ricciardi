@@ -5,7 +5,7 @@ I'm a 3rd year BSc Mathematics student at UCL with interests in finance, statist
 <h2> Machine Learning projects:</h2>
 
 - <b>Python/PyTorch</b>
-  - [MNIST Classification Neural Network comparisons](https://github.com/masha-ricciardi/bayesian-mnist)
+  - [MNIST Classification Neural Network](https://github.com/masha-ricciardi/bayesian-mnist)
     (In progress)
 
 
