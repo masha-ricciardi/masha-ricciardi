@@ -11,7 +11,7 @@ I'm a 3rd year BSc Mathematics student at UCL with interests in finance, statist
 <h2> Finance/Statistics Projects:</h2>
 
 - <b>Python</b>
-  - [Multi-Period Binomal Model (pricing a 3 period American option with dividend)](https://github.com/masha-ricciardi/Multi-Period-Binomial-Model)
+  - [Multi-Period Binomial Model (pricing a 3 period American option with dividend)](https://github.com/masha-ricciardi/Multi-Period-Binomial-Model)
 
 <h2> Mathematical Proofs:</h2>
 
