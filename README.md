@@ -7,7 +7,8 @@ I'm a 3rd year BSc Mathematics student at UCL with interests in finance, statist
 - <b>Python/PyTorch</b>
   - [MNIST Classification Neural Network](https://github.com/masha-ricciardi/bayesian-mnist)
     (In progress)
-
+- <b>Python/CLIP</b>
+  - [Vinted Price Recommender](https://github.com/masha-ricciardi/Vinted-Price-Recommender)
 
 <h2> Finance/Statistics Projects:</h2>
 
